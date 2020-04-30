@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Item 1",
+        "desc": "Item 1 Desc",
+        "amount": 75,
+        "currency": ""
+    },
+    {
+        "name": "Item 2",
+        "desc": "Item 2 Desc",
+        "amount": 25,
+        "currency": ""
+    },
+    {
+        "name": "Item 3",
+        "desc": "Item 3 Desc",
+        "amount": 50,
+        "currency": ""
+    },
+    {
+        "name": "Item 4",
+        "desc": "Item 4 Desc",
+        "amount": 50,
+        "currency": ""
+    }
+]
